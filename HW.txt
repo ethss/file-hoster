@@ -1,11 +1,11 @@
-﻿Bitcoin: $59,538.885
 Teacher: Mrs. Magee
 Class: Lit & Lang
 Date Generated: 9/14/2024
-Current Date: 9/15/2024
 Generated using EthDocs
 Price of Stock/s & Bitcoin updates every `1` Minute 
 V1.0
+
+Archived Document
 
 
 
